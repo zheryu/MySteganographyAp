@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySteganography</string>
+    <string name="image_directory_name">MySteg</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_embed">Embed</string>
+    <string name="title_activity_retrieve">Retrieve</string>
+</resources>
